@@ -17,7 +17,6 @@ Currently, my primary focus is becoming a Network Engineer while expanding my kn
 - 🔐 Network Security
 - 🛡️ Web Application Security
 - 🐧 Linux
-- 🐍 Python for Network Automation
 
 ---
 
@@ -46,7 +45,6 @@ Currently, my primary focus is becoming a Network Engineer while expanding my kn
 ### Programming
 
 - Python
-- PHP
 - JavaScript
 - HTML
 - CSS
