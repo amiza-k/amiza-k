@@ -108,5 +108,5 @@ A vulnerable web application built for learning web technologies and web securit
 
 ## 📫 Connect with Me
 
-- LinkedIn
-- GitHub
+- LinkedIn:[amiza-k](www.linkedin.com/in/amiza-k)
+- GitHub:[amiza-k](https://github.com/amiza-k)
